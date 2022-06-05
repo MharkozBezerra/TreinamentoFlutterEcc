@@ -1,6 +1,8 @@
 # projeto_ecc_flutter
 
-Projeto para brincar com layouts
+Projeto para brincar com layouts. 
+Crio aqui um esboço do que seria uma pequena tela de um ecc inventado por mim.
+Projeto para treinar um pouco do novo flutter 3.0 e suas novas ferramentas;
 
 ## Getting Started
 
